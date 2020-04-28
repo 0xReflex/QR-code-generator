@@ -1,3 +1,4 @@
+#!/usr/bin/env python3 
 import qrcode#importing qrcode in this program
 
 print('what text you want to save')# printing the stff..
